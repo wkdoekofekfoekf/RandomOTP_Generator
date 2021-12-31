@@ -48,13 +48,21 @@ CNSL 연구회에서 자체개발한 탭으로 진행
 
 
 OTP 4자리 숫자를 제대로 입력하였을때 : 
+
+
 ![그림3](https://user-images.githubusercontent.com/62790857/147810763-b0b0252a-daf4-4460-9dd9-aab4a167f0cc.png)
 
 
 OTP 4자리 숫자를 잘못 입력하였을 때:
+
+
+
 ![그림4](https://user-images.githubusercontent.com/62790857/147810767-ea23552c-a489-48bc-8e82-89f6a955bb65.png)
 
 
 OTP 4자리 숫자를 입력하지 않았을 때 :
+
+
+
 ![그림5](https://user-images.githubusercontent.com/62790857/147810772-62c51682-5dd4-426a-948d-c90d78b91eb6.png)
 
